@@ -1,0 +1,12 @@
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/Delegates/bin/Debug/netcoreapp3.1/Delegates.deps.json
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/Delegates/bin/Debug/netcoreapp3.1/Delegates.runtimeconfig.json
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/Delegates/bin/Debug/netcoreapp3.1/Delegates.runtimeconfig.dev.json
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/Delegates/bin/Debug/netcoreapp3.1/Delegates.dll
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/Delegates/bin/Debug/netcoreapp3.1/Delegates.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/Delegates/obj/Debug/netcoreapp3.1/Delegates.csproj.AssemblyReference.cache
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/Delegates/obj/Debug/netcoreapp3.1/Delegates.AssemblyInfoInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/Delegates/obj/Debug/netcoreapp3.1/Delegates.AssemblyInfo.cs
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/Delegates/obj/Debug/netcoreapp3.1/Delegates.csproj.CoreCompileInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/Delegates/obj/Debug/netcoreapp3.1/Delegates.dll
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/Delegates/obj/Debug/netcoreapp3.1/Delegates.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/Delegates/obj/Debug/netcoreapp3.1/Delegates.genruntimeconfig.cache

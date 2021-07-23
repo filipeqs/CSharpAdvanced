@@ -1,27 +1,23 @@
-﻿<Properties StartupConfiguration="{82AF1E0E-81A9-4029-B16F-0668F74632A1}|Default">
-  <MonoDevelop.Ide.ItemProperties.Generics FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Generics/Nullable.cs">
+﻿<Properties StartupConfiguration="{B5C79F29-2DA7-4F44-B1D8-08F62FCE4E0A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Generics PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Delegates/Program.cs">
     <Files>
-      <File FileName="Generics/Program.cs" Line="3" Column="1" />
-      <File FileName="Generics/GenericList.cs" Line="5" Column="5" />
-      <File FileName="Generics/Utilities.cs" Line="5" Column="1" />
-      <File FileName="Generics/DiscountCalculator.cs" Line="3" Column="5" />
-      <File FileName="Generics/Product.cs" Line="7" Column="27" />
-      <File FileName="Generics/Book.cs" Line="5" Column="27" />
-      <File FileName="Generics/Nullable.cs" Line="5" Column="25" />
+      <File FileName="Delegates/Program.cs" Line="10" Column="27" />
+      <File FileName="Delegates/PhotoProcessor.cs" Line="11" Column="34" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CSharpAdvanced" expanded="True">
-            <Node name="Generics" expanded="True">
-              <Node name="Nullable.cs" selected="True" />
+            <Node name="Delegates" expanded="True">
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Delegates PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
