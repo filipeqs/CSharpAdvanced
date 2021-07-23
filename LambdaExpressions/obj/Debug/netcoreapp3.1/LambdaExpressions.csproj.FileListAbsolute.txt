@@ -1,0 +1,12 @@
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/LambdaExpressions/bin/Debug/netcoreapp3.1/LambdaExpressions.deps.json
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/LambdaExpressions/bin/Debug/netcoreapp3.1/LambdaExpressions.runtimeconfig.json
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/LambdaExpressions/bin/Debug/netcoreapp3.1/LambdaExpressions.runtimeconfig.dev.json
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/LambdaExpressions/bin/Debug/netcoreapp3.1/LambdaExpressions.dll
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/LambdaExpressions/bin/Debug/netcoreapp3.1/LambdaExpressions.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/LambdaExpressions/obj/Debug/netcoreapp3.1/LambdaExpressions.csproj.AssemblyReference.cache
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/LambdaExpressions/obj/Debug/netcoreapp3.1/LambdaExpressions.AssemblyInfoInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/LambdaExpressions/obj/Debug/netcoreapp3.1/LambdaExpressions.AssemblyInfo.cs
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/LambdaExpressions/obj/Debug/netcoreapp3.1/LambdaExpressions.csproj.CoreCompileInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/LambdaExpressions/obj/Debug/netcoreapp3.1/LambdaExpressions.dll
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/LambdaExpressions/obj/Debug/netcoreapp3.1/LambdaExpressions.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/LambdaExpressions/obj/Debug/netcoreapp3.1/LambdaExpressions.genruntimeconfig.cache
