@@ -1,15 +1,21 @@
 ﻿<Properties StartupConfiguration="{82AF1E0E-81A9-4029-B16F-0668F74632A1}|Default">
   <MonoDevelop.Ide.ItemProperties.Generics FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Generics/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Generics/Nullable.cs">
     <Files>
-      <File FileName="Generics/Program.cs" Line="1" Column="1" />
+      <File FileName="Generics/Program.cs" Line="3" Column="1" />
+      <File FileName="Generics/GenericList.cs" Line="5" Column="5" />
+      <File FileName="Generics/Utilities.cs" Line="5" Column="1" />
+      <File FileName="Generics/DiscountCalculator.cs" Line="3" Column="5" />
+      <File FileName="Generics/Product.cs" Line="7" Column="27" />
+      <File FileName="Generics/Book.cs" Line="5" Column="27" />
+      <File FileName="Generics/Nullable.cs" Line="5" Column="25" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CSharpAdvanced" expanded="True">
             <Node name="Generics" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Nullable.cs" selected="True" />
             </Node>
           </Node>
         </State>
