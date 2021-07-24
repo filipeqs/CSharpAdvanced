@@ -1,0 +1,12 @@
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/ExceptionHandling/bin/Debug/netcoreapp3.1/ExceptionHandling.deps.json
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/ExceptionHandling/bin/Debug/netcoreapp3.1/ExceptionHandling.runtimeconfig.json
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/ExceptionHandling/bin/Debug/netcoreapp3.1/ExceptionHandling.runtimeconfig.dev.json
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/ExceptionHandling/bin/Debug/netcoreapp3.1/ExceptionHandling.dll
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/ExceptionHandling/bin/Debug/netcoreapp3.1/ExceptionHandling.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/ExceptionHandling/obj/Debug/netcoreapp3.1/ExceptionHandling.csproj.AssemblyReference.cache
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/ExceptionHandling/obj/Debug/netcoreapp3.1/ExceptionHandling.AssemblyInfoInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/ExceptionHandling/obj/Debug/netcoreapp3.1/ExceptionHandling.AssemblyInfo.cs
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/ExceptionHandling/obj/Debug/netcoreapp3.1/ExceptionHandling.csproj.CoreCompileInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/ExceptionHandling/obj/Debug/netcoreapp3.1/ExceptionHandling.dll
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/ExceptionHandling/obj/Debug/netcoreapp3.1/ExceptionHandling.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/ExceptionHandling/obj/Debug/netcoreapp3.1/ExceptionHandling.genruntimeconfig.cache

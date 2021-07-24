@@ -1,30 +1,29 @@
-﻿<Properties StartupConfiguration="{995CC7B7-5E11-4E46-BE09-55DA719E879B}|Default">
+﻿<Properties StartupConfiguration="{A2DAACCF-AAF0-4F60-A6C0-253E6E6BD867}|Default">
   <MonoDevelop.Ide.ItemProperties.Generics PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.ExtensionMethods PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Linq PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DynamicBinding/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExceptionHandling/YouTubeException.cs">
     <Files>
       <File FileName="NullableTypes/Program.cs" Line="11" Column="37" />
-      <File FileName="DynamicBinding/Program.cs" Line="9" Column="25" />
+      <File FileName="DynamicBinding/Program.cs" Line="18" Column="24" />
+      <File FileName="ExceptionHandling/Program.cs" Line="24" Column="29" />
+      <File FileName="ExceptionHandling/YouTubeApi.cs" Line="6" Column="1" />
+      <File FileName="ExceptionHandling/YouTubeException.cs" Line="7" Column="42" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CSharpAdvanced" expanded="True">
-            <Node name="Delegates" expanded="True" />
-            <Node name="DynamicBinding" expanded="True">
-              <Node name="Program.cs" selected="True" />
+            <Node name="ExceptionHandling" expanded="True">
+              <Node name="YouTubeException.cs" selected="True" />
             </Node>
-            <Node name="ExtensionMethods" expanded="True" />
-            <Node name="LambdaExpressions" expanded="True" />
-            <Node name="Linq" expanded="True" />
-            <Node name="NullableTypes" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.NullableTypes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ExceptionHandling PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Delegates PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.LambdaExpressions PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
