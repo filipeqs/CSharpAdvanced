@@ -1,6 +1,6 @@
 # CSharpAdvanced
 
-Notes from C# Basics Advanced Course
+Notes from C# Advanced Course
 
 ---
 
