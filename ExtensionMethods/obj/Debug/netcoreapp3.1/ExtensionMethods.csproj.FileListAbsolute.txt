@@ -1,0 +1,12 @@
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/ExtensionMethods/bin/Debug/netcoreapp3.1/ExtensionMethods.deps.json
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/ExtensionMethods/bin/Debug/netcoreapp3.1/ExtensionMethods.runtimeconfig.json
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/ExtensionMethods/bin/Debug/netcoreapp3.1/ExtensionMethods.runtimeconfig.dev.json
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/ExtensionMethods/bin/Debug/netcoreapp3.1/ExtensionMethods.dll
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/ExtensionMethods/bin/Debug/netcoreapp3.1/ExtensionMethods.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/ExtensionMethods/obj/Debug/netcoreapp3.1/ExtensionMethods.csproj.AssemblyReference.cache
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/ExtensionMethods/obj/Debug/netcoreapp3.1/ExtensionMethods.AssemblyInfoInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/ExtensionMethods/obj/Debug/netcoreapp3.1/ExtensionMethods.AssemblyInfo.cs
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/ExtensionMethods/obj/Debug/netcoreapp3.1/ExtensionMethods.csproj.CoreCompileInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/ExtensionMethods/obj/Debug/netcoreapp3.1/ExtensionMethods.dll
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/ExtensionMethods/obj/Debug/netcoreapp3.1/ExtensionMethods.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/ExtensionMethods/obj/Debug/netcoreapp3.1/ExtensionMethods.genruntimeconfig.cache

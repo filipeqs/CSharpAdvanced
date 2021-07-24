@@ -1,4 +1,5 @@
-﻿namespace LambdaExpressions
+﻿using System;
+namespace Linq
 {
     public class Book
     {

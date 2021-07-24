@@ -1,0 +1,12 @@
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/Linq/bin/Debug/netcoreapp3.1/Linq.deps.json
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/Linq/bin/Debug/netcoreapp3.1/Linq.runtimeconfig.json
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/Linq/bin/Debug/netcoreapp3.1/Linq.runtimeconfig.dev.json
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/Linq/bin/Debug/netcoreapp3.1/Linq.dll
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/Linq/bin/Debug/netcoreapp3.1/Linq.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/Linq/obj/Debug/netcoreapp3.1/Linq.csproj.AssemblyReference.cache
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/Linq/obj/Debug/netcoreapp3.1/Linq.AssemblyInfoInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/Linq/obj/Debug/netcoreapp3.1/Linq.AssemblyInfo.cs
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/Linq/obj/Debug/netcoreapp3.1/Linq.csproj.CoreCompileInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/Linq/obj/Debug/netcoreapp3.1/Linq.dll
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/Linq/obj/Debug/netcoreapp3.1/Linq.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/Linq/obj/Debug/netcoreapp3.1/Linq.genruntimeconfig.cache

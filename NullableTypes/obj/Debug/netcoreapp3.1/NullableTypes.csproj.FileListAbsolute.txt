@@ -1,0 +1,12 @@
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/NullableTypes/bin/Debug/netcoreapp3.1/NullableTypes.deps.json
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/NullableTypes/bin/Debug/netcoreapp3.1/NullableTypes.runtimeconfig.json
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/NullableTypes/bin/Debug/netcoreapp3.1/NullableTypes.runtimeconfig.dev.json
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/NullableTypes/bin/Debug/netcoreapp3.1/NullableTypes.dll
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/NullableTypes/bin/Debug/netcoreapp3.1/NullableTypes.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/NullableTypes/obj/Debug/netcoreapp3.1/NullableTypes.csproj.AssemblyReference.cache
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/NullableTypes/obj/Debug/netcoreapp3.1/NullableTypes.AssemblyInfoInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/NullableTypes/obj/Debug/netcoreapp3.1/NullableTypes.AssemblyInfo.cs
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/NullableTypes/obj/Debug/netcoreapp3.1/NullableTypes.csproj.CoreCompileInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/NullableTypes/obj/Debug/netcoreapp3.1/NullableTypes.dll
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/NullableTypes/obj/Debug/netcoreapp3.1/NullableTypes.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpAdvanced/NullableTypes/obj/Debug/netcoreapp3.1/NullableTypes.genruntimeconfig.cache

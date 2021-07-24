@@ -2,19 +2,16 @@
 
 namespace LambdaExpressions
 {
-    partial class Program
+    public class BookRepository
     {
-        public class BookRepository
+        public List<Book> GetBooks()
         {
-            public List<Book> GetBooks()
+            return new List<Book>()
             {
-                return new List<Book>()
-                {
-                    new Book() { Title = "Title 1", Price = 5 },
-                    new Book() { Title = "Title 2", Price = 7 },
-                    new Book() { Title = "Title 3", Price = 17 },
-                };
-            }
+                new Book() { Title = "Title 1", Price = 5 },
+                new Book() { Title = "Title 2", Price = 7 },
+                new Book() { Title = "Title 3", Price = 17 },
+            };
         }
     }
 }
